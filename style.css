@@ -1,0 +1,50 @@
+.search {
+    background-color: lightgray;
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+
+input {
+    width: 300px;
+}
+
+.footer {
+    margin-top: 5px;
+}
+
+
+.special {
+    width: 40%;
+    height: 100px;
+    background-color: rgb(129, 233, 233);
+    display: block;
+    float: left;
+    text-align: center;
+}
+
+.help {
+    width: 20%;
+    height: 100px;
+    background-color: rgb(95, 177, 177);
+    display: block;
+    float: left;
+    text-align: center;
+}
+
+.mail {
+    width: 40%;
+    height: 100px;
+    background-color: rgb(76, 136, 136);
+    display: block;
+    float: left;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+}
+
+.texts {
+    margin-top: 10px;
+}
